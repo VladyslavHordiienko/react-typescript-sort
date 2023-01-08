@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "John",
+      "email": "john2@mail.com"
+    },
+    {
+      "name": "John",
+      "email": "john1@mail.com"
+    },
+    {
+      "name": "Josh",
+      "email": "josh@mail.com"
+    },
+    {
+      "name": "Jane",
+      "email": "jane@mail.com"
+    },
+    {
+      "name": "Jake",
+      "email": "jake@mail.com"
+    },
+    {
+      "name": "Jim",
+      "email": "jim@mail.com"
+    }
+  ],
+  "conditions": {"include": [{"name": "John"},{"email": "jake@mail.com"}], "sort_by": ["email"]}
+}
